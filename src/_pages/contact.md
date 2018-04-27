@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Another Page 1
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
-permalink: /next
-nav-order: 3
+layout: post-footer-alt
+title: Contact Us
+description: Get in touch with the staff
+image: assets/images/pic08.jpg
+permalink: /contact
+nav-order: 5
 nav-menu: true
 ---
 

@@ -6,4 +6,4 @@ description: null
 image: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+The road to a substance-free life is long and paved with difficult challenges. The physical, emotional and mental toll that recovery will bring sometimes seems like a futile effort. However, it’s important to remember that with each challenge comes a learning experience and a chance to grow. That’s all part of self-discovery, as is the opportunity to face the demons that led to drug or alcohol abuse and learn the strength to stay away from influences that may lead to a relapse.

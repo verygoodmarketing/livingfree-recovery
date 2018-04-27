@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Staff
-description: Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.
-image: assets/images/pic07.jpg
+description: Information about the people who run Living Free
+image: assets/images/pic09.jpg
 permalink: /staff
-nav-order: 1
+nav-order: 6
 nav-menu: true
 ---
 

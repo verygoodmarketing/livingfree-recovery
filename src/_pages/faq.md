@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Another Page 2
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
-permalink: /another
+title: FAQ
+description: Frequently Asked Questions
+image: assets/images/pic07.jpg
+permalink: /faq
 nav-order: 4
 nav-menu: true
 ---

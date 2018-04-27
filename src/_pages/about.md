@@ -1,10 +1,10 @@
 ---
 layout: post
 title: About Living Free
-description: Lorem ipsum dolor est
+description: What we do and why we do it
 image: assets/images/pic11.jpg
 permalink: /about
-nav-order: 6
+nav-order: 1
 nav-menu: true
 ---
 

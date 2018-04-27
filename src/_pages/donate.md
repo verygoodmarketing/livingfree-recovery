@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Donate
-description: Ipsum dolor sit amet
+description: How you can help support addiction recovery
 image: assets/images/pic05.jpg
 permalink: /donate
 nav-order: 2
