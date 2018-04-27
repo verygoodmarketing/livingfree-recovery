@@ -1,0 +1,44 @@
+# site settings
+title: Living Free
+subtitle: Men's Addiction Recovery Program
+email: living.free1@yahoo.com
+description: >-
+  Living Free Recovery is a six to twelve month recovery program for men
+  struggling with drug addiction and/or alcohol addiction.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: 
+street_address: 1577 Highway 36 East
+city: Hartselle
+state: AL
+zip_code: 35640
+country: United States of America
+phone: (256) 466-2883
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+  - 'package.json'
+  - 'Gemfile'
+  - '*.gemspec'
+  - '*.lock'

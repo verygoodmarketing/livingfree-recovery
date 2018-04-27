@@ -1,0 +1,14 @@
+{
+  "name": "living-free-website",
+  "version": "1.0.0",
+  "description": "A jekyll website",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Brad Bodine <bbodine1@gmail.com>",
+  "license": "ISC",
+  "scripts": {
+    "start": "bundle exec jekyll serve --port 3000 --livereload",
+    "build": "bundle exec jekyll build",
+    "bundle": "bundle install"
+  }
+}
