@@ -13,11 +13,9 @@
 {% endif %}
 {% endfor %}
 
-
 {% assign my_pages = (site.pages | sort: 'nav-order') %}
 {% for page in my_pages limit:site.tiles-count %}
-{% if site.tiles-source == 'pages' %}
-  <!-- <article>
+  <article>
     <span class="image">
       <img src="{{ page.image }}" alt="" />
     </span>
@@ -25,8 +23,6 @@
       <h3><a href="{{ page.url | relative_url  }}" class="link">{{ page.title }}</a></h3>
       <p>{{ page.description }}</p>
     </header>
-  </article> -->
-  - {{ page.url }} <br>
-{% endif %}
+  </article>
 {% endfor %}
 </section>

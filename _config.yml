@@ -6,7 +6,7 @@ description: >-
   Living Free Recovery is a six to twelve month recovery program for men
   struggling with drug addiction and/or alcohol addiction.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author: 
 street_address: 1577 Highway 36 East
 city: Hartselle
@@ -33,11 +33,23 @@ twitter_url:
 
 # build settings
 source: src
-destination: _site
+destination: dist
 markdown: kramdown
+
+plugins:
+  - jekyll-autoprefixer
+
+autoprefixer:
+  browsers:
+    - last 2 versions
 sass:
   style: compressed
 
+collections:
+  pages:
+    output: true
+    permalink: /:path
+    
 # Include
 include:
   - _pages

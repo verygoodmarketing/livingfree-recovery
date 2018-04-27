@@ -3,6 +3,7 @@ layout: post
 title: Staff
 description: Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.
 image: assets/images/pic07.jpg
+permalink: /staff
 nav-order: 1
 nav-menu: true
 ---

@@ -3,6 +3,7 @@ layout: post
 title: Donate
 description: Ipsum dolor sit amet
 image: assets/images/pic05.jpg
+permalink: /donate
 nav-order: 2
 nav-menu: true
 ---

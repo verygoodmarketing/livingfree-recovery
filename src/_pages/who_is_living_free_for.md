@@ -3,6 +3,7 @@ layout: post
 title: Who is Living Free For?
 description: Ipsum dolor sit amet
 image: assets/images/pic01.jpg
+permalink: /who-we-are
 nav-order: 5
 nav-menu: true
 ---

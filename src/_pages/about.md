@@ -3,6 +3,7 @@ layout: post
 title: About Living Free
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
+permalink: /about
 nav-order: 6
 nav-menu: true
 ---

@@ -12,12 +12,10 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
-        {% for page in site.pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
-		{% for page in site.pages %}
+		<li><a href="{{ "" | absolute_url }}">Home</a></li>
+
+		{% assign my_pages = (site.pages | sort: 'nav-order') %}
+		{% for page in my_pages %}
 		    {% if page.layout != "home" and page.nav-menu == true %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}

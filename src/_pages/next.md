@@ -3,6 +3,7 @@ layout: post
 title: Another Page 1
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
+permalink: /next
 nav-order: 3
 nav-menu: true
 ---
