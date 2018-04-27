@@ -32,13 +32,19 @@ slack_url:
 twitter_url:
 
 # build settings
+source: src
+destination: _site
 markdown: kramdown
-
 sass:
   style: compressed
 
-exclude:
-  - 'package.json'
-  - 'Gemfile'
-  - '*.gemspec'
-  - '*.lock'
+# Include
+include:
+  - _pages
+
+# Exclude
+# exclude:
+#   - 'package.json'
+#   - 'Gemfile'
+#   - '*.gemspec'
+#   - '*.lock'
