@@ -12,15 +12,24 @@ These are some of the most frequently asked questions about Living Free. This is
 
 <ul class="alt">
   <li>
-    <h4>Question One</h4>
-      Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam.
+    <h4>How can I or my loved one get into Living Free?</h4>
+    <p>The majority of the time there is a waiting list for new applicants to be accepted. There is no way to know until you contact us. To discuss your situation and the enrollment process, <a href="/contact">contact us</a> or call us at <a href="tel:2564662883">(256) 466-2883</a>.</p>
   </li>
+
   <li>
-    <h4>Question Two</h4>
-      Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam.
+    <h4>How much does Living Free cost?</h4>
+    <p>Each client is required to gain employment and pay $110 per week. There is no intake fee.</p>
   </li>
+
   <li>
-    <h4>Question Three</h4>
-      Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam. Dolor etiam magna etiam.
+    <h4>How long is the program?</h4>
+    <p>Each client is different and has different situations. Typically the program will last between six months to one year.</p>
   </li>
-</ul>
+
+  <li>
+    <h4>Are there meetings available or required?</h4>
+    <p>Meetings are available and required for each client. There are several different meetings available daily for clients to attend including <a href="https://www.aa.org/">Alcoholics Anonymous</a>, <a href="https://www.na.org/">Narcotics Anonymous</a>, and <a href="https://www.celebraterecovery.com/index.php">Celebrate Recovery</a>.</p>
+  </li>
+<ul>
+
+
