@@ -9,11 +9,11 @@ nav-menu: true
 ---
 
 <div class="row">
-  <div class="6u 12u(xsmall)">
+  <div class="6u 12u(xsmall) about-video">
     <div class="fb-video" data-href="https://www.facebook.com/daystarhartselle/videos/962735087094000/" data-width="700" data-show-text="false"><blockquote cite="https://www.facebook.com/daystarhartselle/videos/962735087094000/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/daystarhartselle/videos/962735087094000/">Rendell&#039;s Story</a><p>Your Heart for the Kingdom giving will help men in our community understand what it means to be Living Free.</p>Posted by <a href="https://www.facebook.com/daystarhartselle/">Daystar Church Hartselle Campus</a> on Wednesday, April 8, 2015</blockquote></div>
   </div>
 
-  <div class="6u 12u(small) about-side">
+  <div class="6u 12u(small)">
     <p><strong>Living Free</strong> is a six to twelve month recovery program for men struggling with drug and or alchohol addiction. The facility is located in Hartselle, Alabama, and was started by Rendell Drummond in February 2013. There are currently 35 beds with a commons area, kitchen, and laundry.</p>
 
     <p>Getting clean and sober is often not the hard part of recovery—the real challenge comes from merging your past and present into a healthy future. Living Free prepares men to take control of their lives and understand that the road to recovery doesn't end when they leave.</p>
