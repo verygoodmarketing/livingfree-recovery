@@ -14,7 +14,7 @@ nav-menu: true
   </div>
 
   <div class="6u 12u(small) about-side">
-    <p><strong>Living Free</strong> is a six to twelve month recovery program for men struggling with drug and or alchohol addiction. The facility is located in Hartselle, Alabama and was started by Rendell Drummond in February 2013. There are currently 35 beds with a commons area, kitchen, and laundry.</p>
+    <p><strong>Living Free</strong> is a six to twelve month recovery program for men struggling with drug and or alchohol addiction. The facility is located in Hartselle, Alabama, and was started by Rendell Drummond in February 2013. There are currently 35 beds with a commons area, kitchen, and laundry.</p>
 
     <p>Getting clean and sober is often not the hard part of recovery—the real challenge comes from merging your past and present into a healthy future. Living Free prepares men to take control of their lives and understand that the road to recovery doesn't end when they leave.</p>
   </div>

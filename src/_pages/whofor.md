@@ -8,7 +8,7 @@ nav-order: 3
 nav-menu: true
 ---
 
-**Living Free** is an inpatient substance abuse recovery program for adult men seeking recovery from substance abuse and addiction. The facility is located in Hartselle, Alabama and was founded and operated by Rendell Drummond.
+**Living Free** is an inpatient substance abuse recovery program for adult men seeking recovery from substance abuse and addiction. The facility is located in Hartselle, Alabama, and was founded and operated by Rendell Drummond.
 
 **Living Free** utilizes a social model of recovery. Men enrolled in the recovery program learn to become accountable for their actions. They actively participate in the community process of accountability and learn to appropriately deal with consequences for inappropriate behavior. During the community process the men learn to hold their peers accountable with love, dignity, and respect. Men “give back” to the recovery program by providing their own cleaning, light maintenance repairs, laundry, food service, and lawn care services. They are taught independent living skills and learn to become responsible for their own personal care as well as caring for their own living environment.
 
