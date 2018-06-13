@@ -28,7 +28,7 @@ These are some of the most frequently asked questions about Living Free. This is
 
   <li>
     <h4>Are there meetings available or required?</h4>
-    <p>Meetings are available and required for each client. There are several different meetings available daily for clients to attend including <a href="https://www.aa.org/">Alcoholics Anonymous</a>, <a href="https://www.na.org/">Narcotics Anonymous</a>, and <a href="https://www.celebraterecovery.com/index.php">Celebrate Recovery</a>.</p>
+    <p>Meetings are available and required for each client. There are several different meetings available daily for clients to attend including <a href="https://aa.org">Alcoholics Anonymous</a>, <a href="https://na.org">Narcotics Anonymous</a>, <a href="https://ca.org">Cocaine Anonymous</a> a, and <a href="https://celebraterecovery.com">Celebrate Recovery</a>.</p>
   </li>
 <ul>
 

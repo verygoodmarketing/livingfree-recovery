@@ -22,7 +22,10 @@ nav-menu: true
 
 Rendell Drummond, Living Free founder, and his wife Julie operate and pour into the recovery efforts happening daily at Living Free. They feel that Christ is the answer to many of the issues that bind men who are addicted. Because of this, the Living Free program is very involved with Christ centered ministies including [Celebrate Recovery](https://www.celebraterecovery.com/index.php) and [Daystar Church](http://daystarchurch.tv/).
 
-The men enrolled in the program are required to attend church on Sunday mornings and are also required to attend meetings throughout the week. Some meetings are on site and some meetings are off site. Men are also required to gain employment and must keep employment throughout the stay at Living Free.
+The men enrolled in the program are required to attend church on Sunday mornings and are also required to attend meetings throughout the week. Some meetings are on site and some meetings are off site. Available meetings include [Alcoholics Anonymous](https://aa.org), [Narcotics Anonymous](https://na.org), [Cocaine Anonymous](https://ca.org), and [Celebrate Recovery](https://celebraterecovery.com).
+
+Men are required to gain employment and must keep employment throughout the stay at Living Free.
 
 Living Free works closely with the [Morgan County Drug Court](http://www.decaturdaily.com/news/local/former-addict-now-working-with-drug-court-participants/article_2b7b1f0a-2722-5b70-b799-7f1445901139.html) program. Drug Court is a voluntary option for people charged with felonies that involve drug or alcohol addiction to get sober while avoiding prison time. Those who successfully complete the program can have felony charges expunged or dismissed from their criminal records.
+
 
