@@ -1,27 +1,26 @@
-<!-- Wrapper -->
+
 <div id="wrapper">
+	<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+		<a href="/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 
-<!-- Header -->
-<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
-	<nav>
-		<a href="#menu">Menu</a>
+		<nav>
+			<a href="#menu">Menu</a>
+		</nav>
+	</header>
+
+	<nav id="menu">
+		<ul class="links">
+			<li><a href="/">Home</a></li>
+
+			{% assign my_pages = (site.pages | sort: 'nav-order') %}
+			{% for page in my_pages %}
+				{% if page.layout != "home" and page.nav-menu == true %}
+						<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+				{% endif %}
+			{% endfor %}
+
+		</ul>
+		<ul class="actions vertical">
+			<li><a href="#" class="button special fit">Get Started</a></li>
+		</ul>
 	</nav>
-</header>
-
-<!-- Menu -->
-<nav id="menu">
-	<ul class="links">
-		<li><a href="/">Home</a></li>
-
-		{% assign my_pages = (site.pages | sort: 'nav-order') %}
-		{% for page in my_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-		    {% endif %}
-		{% endfor %}
-	</ul>
-	<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Get Started</a></li>
-	</ul>
-</nav>
