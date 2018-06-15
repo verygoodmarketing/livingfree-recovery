@@ -41,7 +41,7 @@ nav-menu: true
 					<header class="major">
 						<h3>Julie Drummond</h3>
 					</header>
-					<p>Julie has a degree in accounting and finance from Athens State. She and Rendell were married in October of 2017. Together, Julie and Rendell have 7 children and 4 grandchildren. Julie has been in church her whole life and is currently she and Rendell are members of Daystar Church in Hartselle.</p>
+					<p>Julie has a degree in accounting and finance from Athens State. She and Rendell were married in October of 2017. Together, Julie and Rendell have 7 children and 4 grandchildren. Julie has been in church her whole life and currently she and Rendell are members of Daystar Church in Hartselle.</p>
 				</div>
 			</div>
 		</section>
