@@ -7,7 +7,7 @@
   "author": "Brad Bodine <bbodine1@github.com>",
   "license": "ISC",
   "scripts": {
-    "start": "bundle exec jekyll serve --port 3000 --livereload",
+    "start": "bundle exec jekyll serve --port 4000 --livereload",
     "build": "bundle exec jekyll build",
     "bundle": "bundle install",
     "clean": "git clean -xdf"
