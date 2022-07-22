@@ -8,10 +8,10 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: 
-street_address: 1577 Highway 36 East
-city: Hartselle
+street_address: 165 West Second St.
+city: Falkville
 state: AL
-zip_code: 35640
+zip_code: 35622
 country: United States of America
 phone: (256) 466-2883
 
