@@ -17,11 +17,6 @@ These are some of the most frequently asked questions about Living Free. This is
   </li>
 
   <li>
-    <h4>How much does Living Free cost?</h4>
-    <p>Each client is required to gain employment and pay $110 per week. There is no intake fee.</p>
-  </li>
-
-  <li>
     <h4>How long is the program?</h4>
     <p>Each client is different and has different situations. Typically the program will last between six months to one year.</p>
   </li>
